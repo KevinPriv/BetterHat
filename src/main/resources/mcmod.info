@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterhats",
+  "name": "Better Hats",
+  "description": "Extrudes Minecraft's Hat Layer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LabyStudios"],
+  "credits": "Kevin#1846 for porting to 1.8.9-forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
